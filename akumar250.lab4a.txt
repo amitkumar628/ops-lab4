@@ -1,0 +1,29 @@
+test_0 (__main__.lab4a.test_0)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for file creation: ./lab4a.py ... ok
+test_a (__main__.lab4a.test_a)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for errors running: ./lab4a.py ... ok
+test_a1 (__main__.lab4a.test_a1)
+[Lab 4] - [Investigation 1] - [Part 2] - Data Structures - Test for correct shebang line: ./lab4a.py ... ok
+test_a_function_join (__main__.lab4a.test_a_function_join)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() fails without 2 arguments ... ok
+test_b_function_join (__main__.lab4a.test_b_function_join)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() fails without 2 arguments ... ok
+test_c_function_join (__main__.lab4a.test_c_function_join)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() fails without 2 arguments ... ok
+test_d_function_join_sets (__main__.lab4a.test_d_function_join_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() joins sets together {1,2,3,4,5} and {2,1,0,-1,-2} ... ok
+test_e_function_join_sets (__main__.lab4a.test_e_function_join_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function join_sets() joins sets together ... ok
+test_f_function_match_sets (__main__.lab4a.test_f_function_match_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() ... ok
+test_g_function_match_sets (__main__.lab4a.test_g_function_match_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function match_sets() ... ok
+test_h_function_diff_sets (__main__.lab4a.test_h_function_diff_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() ... ok
+test_i_function_diff_sets (__main__.lab4a.test_i_function_diff_sets)
+[Lab 4] - [Investigation 1] - [Part 2] - Sets - function diff_sets() ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.007s
+
+OK

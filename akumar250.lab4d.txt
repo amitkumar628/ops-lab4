@@ -1,0 +1,27 @@
+test_0 (__main__.lab4d.test_0)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - Test for file creation: ./lab4d.py ... ok
+test_a (__main__.lab4d.test_a)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - Test for errors running: ./lab4d.py ... ok
+test_a1 (__main__.lab4d.test_a1)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - Test for correct shebang line: ./lab4d.py ... ok
+test_b_function_first_five (__main__.lab4d.test_b_function_first_five)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function first_five() ... ok
+test_c_function_first_five (__main__.lab4d.test_c_function_first_five)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function first_five() ... ok
+test_d_function_last_seven (__main__.lab4d.test_d_function_last_seven)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function last_seven() ... ok
+test_e_function_last_seven (__main__.lab4d.test_e_function_last_seven)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function last_seven() ... ok
+test_f_function_middle_number (__main__.lab4d.test_f_function_middle_number)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function middle_number() ... ok
+test_g_function_middle_number (__main__.lab4d.test_g_function_middle_number)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function middle_number() ... ok
+test_h_function_first_three_last_three (__main__.lab4d.test_h_function_first_three_last_three)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function first_three_last_three() ... ok
+test_i_function_first_three_last_three (__main__.lab4d.test_i_function_first_three_last_three)
+[Lab 4] - [Investigation 2] - [Part 1] - Strings - function first_three_last_three() ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.007s
+
+OK

@@ -1,0 +1,23 @@
+test_0 (__main__.lab4c.test_0)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - Test for file creation: ./lab4c.py ... ok
+test_a (__main__.lab4c.test_a)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - Test for errors running: ./lab4c.py ... ok
+test_a1 (__main__.lab4c.test_a1)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - Test for correct shebang line: ./lab4c.py ... ok
+test_b_function_create_dictionary (__main__.lab4c.test_b_function_create_dictionary)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function create_dictionary() fails without 2 arguments ... ok
+test_d_function_shared_values (__main__.lab4c.test_d_function_shared_values)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function shared_values() fails without 2 arguments ... ok
+test_e_function_create_dictionary (__main__.lab4c.test_e_function_create_dictionary)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function create_dictionary() ... ok
+test_f_function_create_dictionary (__main__.lab4c.test_f_function_create_dictionary)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function create_dictionary() ... ok
+test_i_function_split_dictionary (__main__.lab4c.test_i_function_split_dictionary)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function shared_values() ... ok
+test_j_function_split_dictionary (__main__.lab4c.test_j_function_split_dictionary)
+[Lab 4] - [Investigation 1] - [Part 3] - Data Structures - function shared_values() ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.007s
+
+OK
